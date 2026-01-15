@@ -25,3 +25,7 @@ Listen: https://drive.google.com/drive/folders/1XI0m-jTCOMrFokAyLWUCz7xGrtTWz0No
 Role: Artist, Producer, Songwriter, Mixing & Mastering  
 Focus: Voice as central expressive element  
 Listen: https://music.apple.com/de/album/mundos-alternos-ep/1809127828
+
+
+
+Note: Audio examples are shared with permission of the artists and are intended solely for portfolio and evaluation purposes.
