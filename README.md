@@ -1,4 +1,4 @@
-md
+
 # Audio Experiments
 
 This repository contains small fun experiments and studies related to audio engineering, sound design and creative audio processing.
